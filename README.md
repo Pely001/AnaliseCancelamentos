@@ -5,3 +5,4 @@
 ### Sendo uma delas, verificar o motivo dos cancelamentos e tentar diminuir esse parâmetro.
 
 #### Para este projeto será necessário a utilização das bibliotecas pandas e plotly, caso ocorra erro na geração dos gráficos instalar também a biblioteca nbformat.
+#### Para instalar as bibliotecas usar o comando `pip install pandas plotly nbformat`
